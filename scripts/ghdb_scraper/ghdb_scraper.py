@@ -46,7 +46,7 @@ Dork dictionary example:
 
 headers = {
     "Accept": "application/json, text/javascript, */*; q=0.01",
-    "Accept-Encoding": "deflate, gzip, br",
+    "Accept-Encoding": "deflate, gzip",
     "Accept-Language": "en-US",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:60.0) Gecko/20100101 Firefox/60.0",
     "X-Requested-With": "XMLHttpRequest",
